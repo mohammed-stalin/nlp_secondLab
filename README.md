@@ -1,9 +1,3 @@
-**Web Scraping and NLP Pipeline**
-
-**Overview:**
-This project serves as a comprehensive introduction to web scraping and building NLP (Natural Language Processing) pipelines using Python. Through a series of guided exercises, learners gain hands-on experience with web scraping techniques, text preprocessing, and NLP tasks such as named entity recognition (NER).
-
-**Key Objectives:**
 ## Part 1: Rule-Based NLP and Regex
 
 **-Objective 1:** Develop a Python code using regular expressions to extract product information (name, quantity, unit price) from user-provided text.
